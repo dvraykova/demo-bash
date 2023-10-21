@@ -1,1 +1,2 @@
-# demo-bash
+# Demo-bash
+##Bash exercises
